@@ -1,5 +1,7 @@
 PlatformChecker v1.02
 
+Installation:
+
 This tool requeres some code editor with implemented terminal. (VS Code)
 
 How to use:
@@ -30,4 +32,11 @@ How to use:
 If you get an error connected to puppeter version of Chrome just 
 cd ./node_modules/puppeteer
 npm install
+
+
+Usage:
+
+You need to have access to this sheet: https://docs.google.com/spreadsheets/d/1dh_9QxfVAmjyaEPjSVsiQowT6UQ3CIJiVDN0HIT9Gls/edit#gid=0
+
+In the A column you insert URLs with (https://) for stores that you wish check presence of the Widget ID and platform.
 
